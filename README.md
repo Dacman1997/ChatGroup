@@ -9,6 +9,7 @@ server should perform.
 Commands:
 
 ./send.out "message" "key"
+./list.clients
 
 "key":
 
