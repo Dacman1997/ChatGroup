@@ -14,6 +14,6 @@ Commands:
 
 send_all
 
-send_private <client_ID>
+send_private <client_ID1> <client_ID2> ...
 
 disconnect
