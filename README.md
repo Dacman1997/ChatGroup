@@ -9,7 +9,8 @@ server should perform.
 Commands:
 
 ./send.out "message" "key"
-./list.clients
+
+./list.clients - List client name and ID
 
 "key":
 
